@@ -1,0 +1,1 @@
+gcc -o fda pgmtolist.c pgmfiles.c diff2d.c main.c -lm
